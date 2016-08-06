@@ -1,0 +1,8 @@
+http://the-gammons.net/ -O websites/the-gammons.net -%v -%e0
+File generated automatically on Sat, 15 Aug 2015 17:19:10, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

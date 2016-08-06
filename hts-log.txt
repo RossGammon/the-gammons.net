@@ -1,0 +1,50 @@
+HTTrack3.48-20 launched on Sat, 15 Aug 2015 17:19:10 at http://the-gammons.net/
+(httrack http://the-gammons.net/ -O websites/the-gammons.net -%v -%e0 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:19:20	Error: 	"Not Found" (404) at link the-gammons.net/Home_HRp4.gif (from the-gammons.net/)
+17:19:24	Error: 	"Not Found" (404) at link the-gammons.net/Gammon_NRp2.gif (from the-gammons.net/)
+17:19:27	Error: 	"Not Found" (404) at link the-gammons.net/Raeper_NRp2.gif (from the-gammons.net/)
+17:19:28	Error: 	"Not Found" (404) at link the-gammons.net/Faull_NRp2.gif (from the-gammons.net/)
+17:19:31	Error: 	"Not Found" (404) at link the-gammons.net/Goodgame_NRp2.gif (from the-gammons.net/)
+17:19:33	Error: 	"Not Found" (404) at link the-gammons.net/Grunert_NRp2.gif (from the-gammons.net/)
+17:19:34	Error: 	"Not Found" (404) at link the-gammons.net/Petzold_NRp2.gif (from the-gammons.net/)
+17:19:35	Error: 	"Not Found" (404) at link the-gammons.net/Beyer_NRp2.gif (from the-gammons.net/)
+17:19:35	Error: 	"Not Found" (404) at link the-gammons.net/Jaguttis_NRp2.gif (from the-gammons.net/)
+17:19:36	Error: 	"Not Found" (404) at link the-gammons.net/Links_NRp2.gif (from the-gammons.net/)
+17:19:36	Error: 	"Not Found" (404) at link the-gammons.net/html/Home_NRp2.gif (from the-gammons.net/html/gammon.html)
+17:19:36	Error: 	"Not Found" (404) at link the-gammons.net/html/Gammon_HRp4.gif (from the-gammons.net/html/gammon.html)
+17:19:39	Error: 	"Not Found" (404) at link the-gammons.net/html/Edwin_Alfred_NRp2.gif (from the-gammons.net/html/gammon.html)
+17:19:39	Error: 	"Not Found" (404) at link the-gammons.net/html/Raeper_NRp2.gif (from the-gammons.net/html/gammon.html)
+17:19:39	Error: 	"Not Found" (404) at link the-gammons.net/html/Faull_NRp2.gif (from the-gammons.net/html/gammon.html)
+17:19:39	Error: 	"Not Found" (404) at link the-gammons.net/html/Goodgame_NRp2.gif (from the-gammons.net/html/gammon.html)
+17:19:39	Error: 	"Not Found" (404) at link the-gammons.net/html/Grunert_NRp2.gif (from the-gammons.net/html/gammon.html)
+17:19:39	Error: 	"Not Found" (404) at link the-gammons.net/html/Petzold_NRp2.gif (from the-gammons.net/html/gammon.html)
+17:19:39	Error: 	"Not Found" (404) at link the-gammons.net/html/Beyer_NRp2.gif (from the-gammons.net/html/gammon.html)
+17:19:39	Error: 	"Not Found" (404) at link the-gammons.net/html/Jaguttis_NRp2.gif (from the-gammons.net/html/gammon.html)
+17:19:39	Error: 	"Not Found" (404) at link the-gammons.net/html/Links_NRp2.gif (from the-gammons.net/html/gammon.html)
+17:19:39	Error: 	"Not Found" (404) at link the-gammons.net/html/Gammon_NRp2.gif (from the-gammons.net/html/raeper.html)
+17:19:39	Error: 	"Not Found" (404) at link the-gammons.net/html/Raeper_HRp4.gif (from the-gammons.net/html/raeper.html)
+17:19:45	Error: 	"Not Found" (404) at link the-gammons.net/html/Alexander_NRp2.gif (from the-gammons.net/html/raeper.html)
+17:19:45	Error: 	"Not Found" (404) at link the-gammons.net/html/Faull_HRp4.gif (from the-gammons.net/html/faull.html)
+17:20:38	Error: 	"Not Found" (404) at link the-gammons.net/html/John_Herbert_William_NRp2.gif (from the-gammons.net/html/faull.html)
+17:20:38	Error: 	"Not Found" (404) at link the-gammons.net/html/Goodgame_HRp4.gif (from the-gammons.net/html/goodgame.html)
+17:21:51	Error: 	"Not Found" (404) at link the-gammons.net/html/Elsa_Ruby_NRp2.gif (from the-gammons.net/html/goodgame.html)
+17:21:52	Error: 	"Not Found" (404) at link the-gammons.net/html/Grunert_HRp4.gif (from the-gammons.net/html/grunert.html)
+17:21:53	Error: 	"Not Found" (404) at link the-gammons.net/html/Willy_Paul_Grunert_NRp2.gif (from the-gammons.net/html/grunert.html)
+17:21:53	Error: 	"Not Found" (404) at link the-gammons.net/html/Petzold_HRp4.gif (from the-gammons.net/html/petzold.html)
+17:21:53	Error: 	"Not Found" (404) at link the-gammons.net/html/Beyer_HRp4.gif (from the-gammons.net/html/beyer.html)
+17:21:53	Error: 	"Not Found" (404) at link the-gammons.net/html/Jaguttis_HRp4.gif (from the-gammons.net/html/jaguttis.html)
+17:21:53	Error: 	"Not Found" (404) at link the-gammons.net/html/Links_HRp4.gif (from the-gammons.net/html/links.html)
+17:21:53	Error: 	"Not Found" (404) at link the-gammons.net/html/Edwin_Alfred_HRp4.gif (from the-gammons.net/html/edwin_alfred_gammon__1861_.html)
+17:21:53	Error: 	"Not Found" (404) at link the-gammons.net/html/Alexander_HRp4.gif (from the-gammons.net/html/alexander_raeper__1869_.html)
+17:21:53	Error: 	"Not Found" (404) at link the-gammons.net/html/John_Herbert_William_HRp4.gif (from the-gammons.net/html/john_herbert_william_faull__18.html)
+17:23:12	Error: 	"Not Found" (404) at link the-gammons.net/html/Elsa_Ruby_HRp4.gif (from the-gammons.net/html/elsa_ruby_goodgame__1899_.html)
+17:23:12	Error: 	"Not Found" (404) at link the-gammons.net/html/Willy_Paul_Grunert_HRp4.gif (from the-gammons.net/html/willy_paul_grunert.html)
+
+HTTrack Website Copier/3.48-20 mirror complete in 4 minutes 2 seconds : 125 links scanned, 85 files written (5796722 bytes overall) [5883211 bytes received at 24310 bytes/sec], 7.8 requests per connection
+(39 errors, 0 warnings, 0 messages)
