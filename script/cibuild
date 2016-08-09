@@ -2,4 +2,4 @@
 set -e # halt script on error
 
 bundle exec jekyll build
-bundle exec htmlproofer --empty-alt-ignore --verbose ./_site
+bundle exec htmlproofer --empty-alt-ignore ./_site
