@@ -1,3 +1,32 @@
-encoding: utf-8
+# Site settings
+title: Ross Gammon’s Family History Website
+email: genealogy@the-gammons.net
+description: "This is the website where I record the results of the reasearch into my family history and also that of my wife's. I will keep the source of the website on Github so that other family members can contribute to the website, and so that my son can fork it and carry on with it when he becomes interested, or when I am gone."
+baseurl: ""
+url: "http://the-gammons.net/"
+twitter_username: RossGammon
+github_username:  RossGammon
 
-markdown: RestConverter
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+collections:
+  families:
+    output: true
+  gammon:
+    output: true
+  raeper:
+    output: true
+  faull:
+    output: true
+  goodgame:
+    output: true
+  grunert:
+    output: true
+  petzold:
+    output: true
+  beyer:
+    output: true
+  jaguttis:
+    output: true

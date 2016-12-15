@@ -1,8 +1,0 @@
-/* CSS definition file containing sitestyle stylesheets */
-BODY { font-family: Verdana,Tahoma,Arial,Helvetica,Sans-serif; background-color: rgb(255,255,255); background-image: url("assets/images/background.gif");}
- A:active { color: rgb(255,0,0);}
- A:link { color: rgb(0,51,204);}
- A:visited { color: rgb(153,0,153);}
- .TextNavBar { font-size: xx-small;}
- A:hover { color: rgb(255,0,0);}
- 
