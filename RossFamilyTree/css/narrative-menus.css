@@ -1,0 +1,230 @@
+/*
+#
+# Gramps - a GTK+/GNOME based genealogy program
+#
+# Copyright (C) 2012    Rob G. Healey <robhealey1@gmail.com>
+#
+# This program is free software; you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation; either version 2 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful, 
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program; if not, write to the Free Software
+# Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+#
+# $Id$
+#
+*************************************************
+GRAMPS Cascading Style Sheet
+Style Name: Fade-Menus Style Sheet
+*************************************************
+
+    Body Element
+------------------------------------------------------ */
+body {
+    background-color: #FFF;
+    color: #00029D;
+    width: 100%;
+}
+
+/*    Header
+------------------------------------------------------ */
+div#header {
+    border-bottom: solid 8px #13A926;
+}
+
+/*     Drop Down Navigation Menu
+------------------------------------------------------ */
+ul#dropmenu {
+    width: 100%;
+    margin: 0 auto;
+    padding: 10px 0 0 0;
+    list-style-type: none;
+    background: #00029D;
+    background: -moz-linear-gradient(#444, #00029D);
+    background: -webkit-gradient(linear,left bottom,left top,color-stop(0, #111),color-stop(1, #444));
+    background: -webkit-linear-gradient(#444, #111);
+    background: -o-linear-gradient(#444, #111);
+    background: -ms-linear-gradient(#444, #111);
+    background: linear-gradient(#444, #111);
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    -moz-box-shadow: 0 2px 1px #9c9c9c;
+    -webkit-box-shadow: 0 2px 1px #9c9c9c;
+    box-shadow: 0 2px 1px #9c9c9c;
+}
+ul#dropmenu li {
+    float: left;
+    padding: 0 0 10px 0;
+    position: relative;
+}
+ul#dropmenu a {
+    float: left;
+    height: 25px;
+    padding: 0 25px;
+    color: #999;
+    text-transform: uppercase;
+    font: bold 12px/25px Arial, Helvetica;
+    text-decoration: none;
+    text-shadow: 0 1px 0 #000;
+}
+ul#dropmenu li:hover > a {
+    color: #fafafa
+}
+
+*html ul#dropmenu li a:hover /* IE6 */
+{
+    color: #fafafa
+}
+ul#dropmenu li:hover > ul {
+    display: block
+}
+
+/*     Sub-menu
+------------------------------------------------------ */
+ul#dropmenu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: none;
+    position: absolute;
+    top: 35px;
+    left: 0;
+    z-index: 99999;
+    background: #444;
+    background: -moz-linear-gradient(#444, #111);
+    background: -webkit-gradient(linear,left bottom,left top,color-stop(0, #111),color-stop(1, #444));
+    background: -webkit-linear-gradient(#444, #111);
+    background: -o-linear-gradient(#444, #111);
+    background: -ms-linear-gradient(#444, #111);
+    background: linear-gradient(#444, #111);
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+ul#dropmenu ul li {
+    float: none;
+    margin: 0;
+    padding: 0;
+    display: block;
+    -moz-box-shadow: 0 1px 0 #111111, 0 2px 0 #777777;
+    -webkit-box-shadow: 0 1px 0 #111111, 0 2px 0 #777777;
+    box-shadow: 0 1px 0 #111111, 0 2px 0 #777777;
+}
+ul#dropmenu ul li:last-child {
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+ul#dropmenu ul a {
+    padding: 10px;
+    height: auto;
+    line-height: 1;
+    display: block;
+    white-space: nowrap;
+    float: none;
+    text-transform: none;
+}
+*html ul#dropmenu ul a /* IE6 */
+{
+    height: 10px;
+    width: 150px;
+}
+*:first-child+html ul#dropmenu ul a /* IE7 */
+{
+    height: 10px;
+    width: 150px;
+}
+ul#dropmenu ul a:hover {
+    background: #0186ba;
+    background: -moz-linear-gradient(#04acec,  #0186ba);
+    background: -webkit-gradient(linear, left top, left bottom, from(#04acec), to(#0186ba));
+    background: -webkit-linear-gradient(#04acec,  #0186ba);
+    background: -o-linear-gradient(#04acec,  #0186ba);
+    background: -ms-linear-gradient(#04acec,  #0186ba);
+    background: linear-gradient(#04acec,  #0186ba);
+}
+ul#dropmenu ul li:first-child a {
+    -moz-border-radius: 5px 5px 0 0;
+    border-radius: 5px 5px 0 0;
+}
+ul#dropmenu ul li:first-child a:after {
+    content: '';
+    position: absolute;
+    left: 30px;
+    top: -8px;
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-bottom: 8px solid #444;
+}
+ul#dropmenu ul li:first-child a:hover:after {
+    border-bottom-color: #04acec
+}
+ul#dropmenu ul li:last-child a {
+    -moz-border-radius: 0 0 5px 5px;
+    border-radius: 0 0 5px 5px;
+}
+
+/*     Clear floated elements
+------------------------------------------------------ */
+ul#dropmenu:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+* html ul#dropmenu             { zoom: 1; } /* IE6 */
+*:first-child+html ul#dropmenu { zoom: 1; } /* IE7 */
+
+/*    Alphabet Navigation and Year Menu
+------------------------------------------------------ */
+div#alphanav, div#subnavigation {
+    clear: both;
+    padding-top: 1px;
+    font: bold 1.2em/1.4 "sans, sans-serif";
+}
+div#alphanav ul, div#subnavigation ul {
+    float: left;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    background: #00029D;
+    border-top: 2px solid #13A926;
+    border-bottom: 2px solid #13A926;
+}
+div#alphanav ul li, div#subnavigation ul li {
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+div#alphanav ul li a, div#subnavigation ul li a {
+    display: block;
+    float: left;
+    padding: 6px 12px;
+    border-right: 1px solid #13A926;
+    border-left: 1px solid #13A926;
+    color: #FFF;
+    text-decoration: none;
+}
+div#alphanav ul li a:hover, div#alphanav ul li a:focus,
+div#subnavigation ul li a:hover, div#subnavigation ul li a:focus {
+    background: #FFF;
+    color: #000;
+}
+div#subnavigation ul li.CurrentSection a {
+    border-left: solid 1px #13A926;
+    border-right: solid 1px #13A926;
+    background-color: #FFF;
+    color: #00029D;
+}

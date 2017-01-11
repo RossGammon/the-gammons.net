@@ -11,6 +11,9 @@ github_username:  RossGammon
 markdown: kramdown
 permalink: pretty
 
+# Exclude directory for Gramps Navweb site
+exclude: RossFamilyTree
+
 collections:
   families:
     output: true
