@@ -86,3 +86,8 @@ Forschung zu tun:
 6. Suchen Sie Einwohnerlisten
 7. Sehen Sie für miltärische Aufzeichnungen
 8. Sehen Sie für Verzeichnisse
+
+Link to Family Tree:
+--------------------
+
+<a href="{{ site.baseurl }}/RossFamilyTree/ppl/0/6/d15f701477334e50a4f7d02860.html">Willy Paul GRUNERT</a>

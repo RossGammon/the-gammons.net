@@ -59,3 +59,8 @@ Research to do:
 2. Research, and obtain maps and photos of their residences
 3. Track down more residences
 4. Look for and obtain wills
+
+Link to Family Tree:
+--------------------
+
+<a href="{{ site.baseurl }}/RossFamilyTree/ppl/2/b/d15f5fb5ae5847d22a10426cb2.html">John Herbert William FAULL</a>

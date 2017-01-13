@@ -63,3 +63,8 @@ Research to do:
 8. Investigate who William Goodgame and Mary Ann DITSDALE were
 9. Get photos/maps of residences
 10. Look for and obtain wills
+
+Link to Family Tree:
+--------------------
+
+<a href="{{ site.baseurl }}/RossFamilyTree/ppl/b/a/d15f701444a20c4db157b5c8cab.html">Elsa Ruby GOODGAME</a>

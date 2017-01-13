@@ -110,3 +110,8 @@ Research to do:
 25. Find & photograph monumental inscriptions for Christopher, Edwin & Edith
 26. Conduct wider search for Edwin’s will.
 27. Check whether Lehnistonas Close is a retirement home, or friends/relatives
+
+Link to Family Tree:
+--------------------
+
+<a href="{{ site.baseurl }}/RossFamilyTree/ppl/d/0/d15f5fb526621fe546826c8310d.html">Edwin Alfred GAMMON</a>
