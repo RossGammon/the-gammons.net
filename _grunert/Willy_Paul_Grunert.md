@@ -23,7 +23,7 @@ On the 8th November 1936 (1), their second son Werner GRUNERT was born in Neudor
 The latter years
 ----------------
 
-Willy Paul GRUNERT died 9 June 1953 presumably also at Neudorf (1=.
+Willy Paul GRUNERT died 9 June 1953 presumably also at Neudorf (1).
 
 Toni Melanie GRUNERT (SCHMIEDEL) died also at Neudorf on the 24 April 1979 (2).
 
