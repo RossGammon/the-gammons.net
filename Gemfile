@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll"
-gem "html-proofer"
-gem "RbST"
+group :jekyll_plugins do
+#  gem "html-proofer"
+  gem "RbST"
+end

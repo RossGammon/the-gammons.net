@@ -12,7 +12,7 @@ This photo is of Berrynarbor (Thanks to Roger Gittins - CCA-SA 2.0)
 
 So far, my Gammon ancestry has been traced back to the late 18th Century in Berrynarbor, Devonshire, England.
 
-This website starts with my Great Grandfather, Edwin Alfred Gammon who was born in 1861 at Ilfracombe, Devonshire, England.
+At the moment I have pages for my Grandfather: Francis Gammon, who was born in 1899 in Reading, Berkshire, England, and my Great Grandfather: Edwin Alfred Gammon who was born in 1861 at Ilfracombe, Devonshire, England.
 
 {% for gammon in site.gammon %}
   <div class="gammon">
