@@ -5,9 +5,9 @@ date:   2020-04-26 13:30:00
 categories: bethel
 ---
 
-Yesterday whilst in Coronavirus lockdown, I enjoyed watching the [Music from the Home Front](https://musicfromthehomefront.com.au/) broadcast livestreamed on the internet. I was great to see some of my
-favourite Australian musicans and bands performing from their home studios which looked a lot like mine (except tidier, and more gear!). It was great to take part in remembering the great sacrifices that
-Australian and New Zealand soldiers made and also to reflect on the work that all of the people are doing on our behalf in service of the people whilst fighting this modern day war anainst a virus. Hearing
+Yesterday whilst in Coronavirus lockdown, I enjoyed watching the [Music from the Home Front](https://musicfromthehomefront.com.au/) broadcast live-streamed on the internet. It was great to see some of my
+favourite Australian musicans and bands performing from their home studios which looked a lot like mine (except tidier, and they had more gear!). It was great to take part in remembering the great sacrifices that
+Australian and New Zealand soldiers made and also to reflect on the work that all of the people are doing on our behalf in service of the people whilst fighting this modern day war against a virus. Hearing
 James Morrison playing the bugle reminded me of the time that I played the Last Post at an ANZAC Day ceremony in Melbourne (Box Hill I think) all those years ago. James did a much better job!
 
 ![Robert Bethel](/assets/images/RobertBethelCWG.jpg)
